@@ -1,5 +1,10 @@
 # Learn-Track
 
+A simple console-based learning management system (LMS) built to demonstrate Java OOP, clean code, and package structuring. It manages Students, Courses, and Enrollments, and includes services, utility classes, custom exceptions, and a console UI.
+
+To compile, we use javac command which will create .class files. All these files are present in out/production/LearnTrack/com/airtribe/learntrack.
+To run, we can use java command.
+
 src/
 └── com/
 └── airtribe/
