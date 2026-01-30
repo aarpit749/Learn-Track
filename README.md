@@ -5,6 +5,8 @@ A simple console-based learning management system (LMS) built to demonstrate Jav
 To compile, we use javac command which will create .class files. All these files are present in out/production/LearnTrack/com/airtribe/learntrack.
 To run, we can use java command.
 
+Directory Structure
+
 src/
 └── com/
 └── airtribe/
